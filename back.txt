@@ -1,0 +1,8 @@
+<label for="comment">Comment:</label><br>
+    <textarea rows="4" cols="50" name="comment" form="usrform" placeholder="your Comment..."></textarea><br><br>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" placeholder="your name ...">
+    <label for="name">Email:</label>
+    <input type="text" id="email" name="email" placeholder="your email ...">
+    <br><br>
+    <input type="submit" value="Submit">
