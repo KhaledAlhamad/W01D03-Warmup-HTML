@@ -1,0 +1,12 @@
+h1#heading-1{
+    color: purple;
+}
+
+h1#heading-2{
+    color:yellow;
+}
+
+p{
+    color: #fff;
+    text-decoration: underline;
+}
